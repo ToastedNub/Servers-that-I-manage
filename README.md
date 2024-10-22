@@ -1,6 +1,7 @@
 # MY SERVERS
  - [AI Bots BOT INVITES ARE HERE](https://discord.gg/BYFmPrMgAs)
  - [Other AI Stuff](https://discord.gg/zCx5xxYK6h)
+ - [NSFW Bots](https://discord.gg/qAupaGXRYt)
 
 # BOT SPAM (ALSO MY SERVERS)
  - [Hibble Gloob](https://discord.gg/WsXyFfDknB)
