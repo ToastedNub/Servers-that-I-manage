@@ -1,5 +1,5 @@
 # MY SERVERS
- - [AI Bots](https://discord.gg/BYFmPrMgAs)
+ - [AI / MEME Bots](https://discord.gg/BYFmPrMgAs)
  - [NSFW Bots](https://discord.gg/qAupaGXRYt)
  - [Other AI Stuff](https://discord.gg/zCx5xxYK6h)
 
