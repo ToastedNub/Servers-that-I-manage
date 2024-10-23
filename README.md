@@ -1,3 +1,5 @@
+# [CLICK THIS TO SEE THE MESSAGE LOG INFO](https://github.com/ToastedNub/LogMessages)
+
 # MY SERVERS
  - [AI / MEME Bots](https://discord.gg/BYFmPrMgAs)
  - [NSFW Bots](https://discord.gg/qAupaGXRYt)
