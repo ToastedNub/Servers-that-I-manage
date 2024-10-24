@@ -22,12 +22,23 @@
  - [Modern Level Gang](https://discord.gg/TG3CfstpWV)
 
 
-# MY BOTS
+# MY BOTS - MAKE SURE YOU SET YOUR SERVER ROLES PROPERLY OR ELSE THE BOTS WILL RESPOND IN EVERY CHANNEL THEY CAN SEE
  - [Grandma](https://discord.com/oauth2/authorize?client_id=1070116081219416185&permissions=116736&integration_type=0&scope=bot) AI Chat Bot + Sends Memes To Server Channels
+
  - [Grandpa](https://discord.com/oauth2/authorize?client_id=1070234713429639168&permissions=116736&integration_type=0&scope=bot) AI Chat Bot + Sends Memes To Server Channels
+
  - [George](https://discord.com/oauth2/authorize?client_id=1117384641196851230&permissions=116736&integration_type=0&scope=bot) AI Chat Bot + Sends Memes To Server Channels
+
  - [Mammott Finger](https://discord.com/oauth2/authorize?client_id=1073373579569287340&permissions=116736&integration_type=0&scope=bot) AI Chat Bot + Sends Memes To Server Channels
- - [BeanBotServer](https://discord.com/oauth2/authorize?client_id=1178570228075085894&permissions=116736&integration_type=0&scope=bot) Sends Memes To Server Channels
- - [BeanBotDM](https://discord.com/oauth2/authorize?client_id=1204913090706022400&permissions=116736&integration_type=0&scope=bot) Sends Memes To User DMs
- - [Carl](https://discord.com/oauth2/authorize?client_id=1117388153133731870&permissions=116736&integration_type=0&scope=bot) Sends Memes To Server Channels And User DMs
- - [Stan](https://discord.com/oauth2/authorize?client_id=1298207288355586140&permissions=116736&integration_type=0&scope=bot) Sends NSFW Memes To Server Channels And User DMs
+
+ - [Bean Bot](https://discord.com/oauth2/authorize?client_id=1178570228075085894&permissions=116736&integration_type=0&scope=bot) Sends Meme Pictures To Server Channels And User DMs
+
+ - [Bean Bot 2](https://discord.com/oauth2/authorize?client_id=1204913090706022400&permissions=116736&integration_type=0&scope=bot) Sends Meme Gifs To Server Channels And User DMs
+
+ - [Carl](https://discord.com/oauth2/authorize?client_id=1117388153133731870&permissions=116736&integration_type=0&scope=bot) Sends Meme Videos and Gifs To Server Channels And User DMs
+
+ - [Stan](https://discord.com/oauth2/authorize?client_id=1298207288355586140&permissions=116736&integration_type=0&scope=bot) Sends NSFW Videos To Server Channels And User DMs
+
+ - [Bob](https://discord.com/oauth2/authorize?client_id=1298619917784059957&permissions=51200&integration_type=0&scope=bot) Sends NSFW Gifs To Server Channels And User DMs
+
+ - [Wilbo](https://discord.com/oauth2/authorize?client_id=1298907769558274159&permissions=51200&integration_type=0&scope=bot) Sends NSFW Pictures To Server Channels And User DMs
