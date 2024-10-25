@@ -37,8 +37,8 @@
 
  - [Carl](https://discord.com/oauth2/authorize?client_id=1117388153133731870&permissions=116736&integration_type=0&scope=bot) Sends Meme Videos and Gifs To Server Channels And User DMs
 
- - [Stan](https://discord.com/oauth2/authorize?client_id=1298207288355586140&permissions=116736&integration_type=0&scope=bot) Sends NSFW Videos To Server Channels And User DMs
+ - [Stan](https://discord.com/oauth2/authorize?client_id=1299515659562258452&permissions=51200&integration_type=0&scope=bot) Sends NSFW Videos To Server Channels And User DMs
 
- - [Bob](https://discord.com/oauth2/authorize?client_id=1298619917784059957&permissions=51200&integration_type=0&scope=bot) Sends NSFW Gifs To Server Channels And User DMs
+ - [Bob](https://discord.com/oauth2/authorize?client_id=1299515947761008680&permissions=51200&integration_type=0&scope=bot) Sends NSFW Gifs To Server Channels And User DMs
 
- - [Wilbo](https://discord.com/oauth2/authorize?client_id=1298907769558274159&permissions=51200&integration_type=0&scope=bot) Sends NSFW Pictures To Server Channels And User DMs
+ - [Wilbo](https://discord.com/oauth2/authorize?client_id=1299516079802023967&permissions=51200&integration_type=0&scope=bot) Sends NSFW Pictures To Server Channels And User DMs
