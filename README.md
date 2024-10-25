@@ -23,13 +23,13 @@
 
 
 # MY BOTS - MAKE SURE YOU SET YOUR SERVER ROLES PROPERLY OR ELSE THE BOTS WILL RESPOND IN EVERY CHANNEL THEY CAN SEE
- - [Grandma](https://discord.com/oauth2/authorize?client_id=1070116081219416185&permissions=116736&integration_type=0&scope=bot) AI Chat Bot + Sends Memes To Server Channels
+ - [Grandma](https://discord.com/oauth2/authorize?client_id=1070116081219416185&permissions=116736&integration_type=0&scope=bot) AI Chat Bot
 
- - [Grandpa](https://discord.com/oauth2/authorize?client_id=1070234713429639168&permissions=116736&integration_type=0&scope=bot) AI Chat Bot + Sends Memes To Server Channels
+ - [Grandpa](https://discord.com/oauth2/authorize?client_id=1070234713429639168&permissions=116736&integration_type=0&scope=bot) AI Chat Bot
 
- - [George](https://discord.com/oauth2/authorize?client_id=1117384641196851230&permissions=116736&integration_type=0&scope=bot) AI Chat Bot + Sends Memes To Server Channels
+ - [George](https://discord.com/oauth2/authorize?client_id=1117384641196851230&permissions=116736&integration_type=0&scope=bot) AI Chat Bot
 
- - [Mammott Finger](https://discord.com/oauth2/authorize?client_id=1073373579569287340&permissions=116736&integration_type=0&scope=bot) AI Chat Bot + Sends Memes To Server Channels
+ - [Mammott Finger](https://discord.com/oauth2/authorize?client_id=1073373579569287340&permissions=116736&integration_type=0&scope=bot) AI Chat Bot
 
  - [Bean Bot](https://discord.com/oauth2/authorize?client_id=1178570228075085894&permissions=116736&integration_type=0&scope=bot) Sends Meme Pictures To Server Channels And User DMs
 
